@@ -1,0 +1,6 @@
+{
+  "name": "Super Ittefaq Logistics",
+  "description": "Official static web portal for Super Ittefaq Logistics — ISO 9001:2017 certified transport, freight, FTL, LTL, cold chain, tracking, and logistics services across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
